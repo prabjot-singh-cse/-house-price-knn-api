@@ -159,9 +159,7 @@ def home():
             <div id="result" class="hidden" aria-live="polite"></div>
 
             <p class="note">
-                This is an educational ML project using a Kaggle dataset.
-                Predictions are estimates in the dataset's original price
-                units and are not professional property valuations.
+                Made with <span style="color: #e11d48;">&#10084;</span> for MANIKANDAN SIR 
             </p>
         </div>
 
