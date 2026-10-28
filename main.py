@@ -159,7 +159,7 @@ def home():
             <div id="result" class="hidden" aria-live="polite"></div>
 
             <p class="note">
-                Made with <span style="color: #e11d48;">&#10084;</span> for MANIKANDAN SIR 
+                Made with <span style="color: #e11d48;">&#10084;</span> 
             </p>
         </div>
 
