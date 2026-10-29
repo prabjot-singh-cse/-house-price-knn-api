@@ -1,0 +1,12 @@
+
+services:
+  house-price-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: house-price-knn-api
+    ports:
+      - "8000:8000"
+    environment:
+      PORT: "8000"
+    restart: unless-stopped

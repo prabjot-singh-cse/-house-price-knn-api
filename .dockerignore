@@ -1,0 +1,10 @@
+
+.venv/
+.venv-new/
+__pycache__/
+*.pyc
+.git/
+.env
+.vscode/
+Housing.csv
+train_model.py
